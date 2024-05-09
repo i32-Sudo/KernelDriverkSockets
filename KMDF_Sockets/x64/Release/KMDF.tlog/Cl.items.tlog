@@ -1,0 +1,5 @@
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\ksocket\berkeley.c;C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\x64\Release\berkeley.obj
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\ksocket\ksocket.c;C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\x64\Release\ksocket.obj
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\main.cpp;C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\x64\Release\main.obj
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\packet_handler.cpp;C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\x64\Release\packet_handler.obj
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\server.cpp;C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\x64\Release\server.obj

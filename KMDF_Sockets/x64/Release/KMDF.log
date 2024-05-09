@@ -1,0 +1,52 @@
+﻿  Building 'KMDF' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\KMDF.inf
+  Stamping [Version] section with DriverVer=05/09/2024,0.51.4.588
+  berkeley.c
+  ksocket.c
+  Generating Code...
+  Compiling...
+  main.cpp
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\kernelTools.h(90,67): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+  (compiling source file '_src/main.cpp')
+  
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\kernelTools.h(176,67): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+  (compiling source file '_src/main.cpp')
+  
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\clean.hpp(72,32): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+  (compiling source file '_src/main.cpp')
+  
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\clean.hpp(345,18): warning C4242: 'initializing': conversion from 'BOOL' to 'BOOLEAN', possible loss of data
+  (compiling source file '_src/main.cpp')
+  
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\clean.hpp(352,9): warning C4189: 'empty': local variable is initialized but not referenced
+  (compiling source file '_src/main.cpp')
+  
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\main.cpp(38,48): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+  packet_handler.cpp
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\packet_handler.cpp(11,23): warning C4245: 'return': conversion from 'NTSTATUS' to 'uint64_t', signed/unsigned mismatch
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\packet_handler.cpp(132,23): warning C4245: 'return': conversion from 'NTSTATUS' to 'uint64_t', signed/unsigned mismatch
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\packet_handler.cpp(199,44): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\packet_handler.cpp(186,18): warning C4505: 'get_kernel_address': unreferenced function with internal linkage has been removed
+  server.cpp
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\server.cpp(102,49): warning C4996: 'ExAllocatePool': ExAllocatePool is deprecated, use ExAllocatePool2.
+  Generating Code...
+C:\Users\dnfki\Desktop\StrawBerryC\KMDF_Sockets\_src\clean.hpp(401,1): warning C4702: unreachable code
+  KMDF.vcxproj -> C:\Users\dnfki\Desktop\StrawBerryC\x64\Release\KMDF.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dnfki\Desktop\StrawBerryC\x64\Release\KMDF.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\dnfki\Desktop\StrawBerryC\x64\Release\KMDF\kmdf.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dnfki\Desktop\StrawBerryC\x64\Release\KMDF\kmdf.cat
+  
