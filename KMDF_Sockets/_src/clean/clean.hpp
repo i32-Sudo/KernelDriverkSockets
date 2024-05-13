@@ -1,7 +1,7 @@
 #pragma once
-#include "struct.h"
-#include "log.h"
-#include "kernelTools.h"
+#include "../kernel/struct.h"
+#include "../kernel/log.h"
+#include "../kernel/kernelTools.h"
 #include "skCrypt.h"
 
 #define BB_POOL_TAG 'Esk'

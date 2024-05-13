@@ -2,8 +2,8 @@
 
 extern "C"
 {
-	#include "ksocket/ksocket.h"
-	#include "ksocket/berkeley.h"
+	#include "../ksocket/ksocket.h"
+	#include "../ksocket/berkeley.h"
 }
 
 typedef int SOCKET;

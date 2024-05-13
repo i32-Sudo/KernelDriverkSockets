@@ -1,8 +1,8 @@
 ﻿#include "ntifs.h"
 #include "server_shared.h"
 #include "sockets.h"
-#include "imports.h"
-#include "log.h"
+#include "../kernel/imports.h"
+#include "../kernel/log.h"
 #include <psapi.h>
 
 uint64_t RDrvGetModuleEntry(PEPROCESS Process, UNICODE_STRING

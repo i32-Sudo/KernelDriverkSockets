@@ -1,5 +1,5 @@
 #pragma once
-#include "skCrypt.h"
+#include "../clean/skCrypt.h"
 
 /* 1903, 1909, 2004, 20H2, 21H1, 22H2 */
 #define MmuPattern "\x4C\x8B\x15\x00\x00\x00\x00\x4C\x8B\xC9"

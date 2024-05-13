@@ -1,6 +1,6 @@
 #include "server_shared.h"
 #include "sockets.h"
-#include "log.h"
+#include "../kernel/log.h"
 
 extern uint64_t handle_incoming_packet(const Packet& packet);
 extern bool		complete_request(SOCKET client_connection, uint64_t result);
