@@ -4,4 +4,4 @@ A simple kernel driver for R/W Using kSockets with some bypass implementation. I
 Don't expect this to be undetected unless you use a cert.
 
 # Contact
-If you want an actually good Kernel Level Cheat that is UD My discord is -> leur556
+If you want an actually good Kernel Level Cheat that is UD My discord is -> _ambitza
