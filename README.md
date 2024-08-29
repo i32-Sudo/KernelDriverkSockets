@@ -4,4 +4,4 @@ A simple kernel driver for R/W Using kSockets with some bypass implementation. I
 Don't expect this to be undetected unless you use a cert.
 
 # Contact
-If you want to contact me in regards of my work or projects my discord is -> `_ambitza`, Please do not message me for Issues or Learning/Studying I am not a teacher.
+If you want to contact me in regards of my work or projects my discord is -> `_chisla`, Please do not message me for Issues or Learning/Studying I am not a teacher.
